@@ -1,0 +1,7 @@
+Mods : {
+    RunicArcanum : {
+        Config : {
+            OpenMindRunicInterfaceKeybind : 施用心灵符文
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YuPWUnBRqjg5NJBPUXy036RnhjANB1uOSOBLd9Yq43WYniSYxjqztzAUqMQBiGKcU254gSrO602+3wIFzvx0pA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\RunicArcanum\\RunicArcanum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
